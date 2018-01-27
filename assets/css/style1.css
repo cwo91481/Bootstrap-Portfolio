@@ -207,8 +207,9 @@ border: 1px;
 }
 
 .panel{
+    float: right; 
     position: relative;
-    bottom:985px;  
+    bottom:986px;  
     left: 1100px; 
     padding:15px; 
     text-align: center; 
