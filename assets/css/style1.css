@@ -1,0 +1,227 @@
+body{
+    background-image: url(http://artisanironworksllc.com/wp-content/uploads/2013/06/css-background-tile-image-81111.png);
+    margin-bottom: 0px; 
+}
+
+ li{
+     float:right; 
+     padding:10px; 
+ }
+ ul{
+     
+     height:100px;  
+ }
+
+aside{ background-color: rgb(44, 156, 156);
+    padding: 55px;
+    float: left; 
+    color: white; 
+    position: relative;
+    top: -130px; 
+    left: 130px; 
+    height: 8px; 
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px; 
+    margin:0px;
+}
+
+h1{color:rgb(22, 85, 94); 
+    position: relative;
+    top:-650px; 
+    left: -270px;
+    font-family: Georgia, 'Times New Roman', Times, serif;}
+
+    #alignleft1{
+        clear: both;
+        float: left; 
+        color:#777777;  
+        width: 629px;
+        height: 831px;
+        background-color:#ffffff;
+        padding: 15px;
+        text-align: center; 
+        margin: 150px;
+        margin-top: 50px;
+        font-family:Arial, Helvetica, sans-serif;}
+  
+#second{
+    float: right; 
+    position: relative;
+    top: -72px;
+    right: 20px; 
+
+}
+#third{
+    margin-top: 250px; 
+}
+
+#fourth{
+    position: relative;
+    right:-346px; 
+    bottom: 201px; 
+     
+   float: left;
+}
+#fifth{
+    position: relative;
+     
+     
+   float: left;
+}
+
+
+#image{
+    padding: 1px;
+    float: left;
+
+}#image1{
+    padding: 1px;
+    float:right; 
+    
+}
+#image2{
+    clear:both;
+    position: relative;
+    float: left;
+       
+
+}
+#image3{
+      
+    float: left; 
+    
+
+}
+#image4{
+    clear: both;
+    position: relative; 
+    bottom: 150px; 
+
+    
+    
+     
+}
+#banner{
+   position: relative;
+    
+    top: 195px;
+    width: 243px; 
+    padding: 8px; 
+    background-color: rgb(54, 163, 163);
+    font-family: Georgia, 'Times New Roman', Times, serif; 
+    color: white; 
+    font-size: 18px; 
+}
+
+#banner2{
+    position: relative;
+     top: 195px;
+     right: 0px; 
+     width: 243px; 
+     padding: 8px; 
+     background-color: rgb(54, 163, 163);
+     font-family: Georgia, 'Times New Roman', Times, serif; 
+     color: white; 
+     font-size: 18px; 
+}
+
+#banner3{
+    position: relative;
+    right: 257px; 
+    float: left;  
+    top: 120px; 
+     width: 243px;  
+     padding: 8px; 
+     background-color: rgb(54, 163, 163);
+     font-family: Georgia, 'Times New Roman', Times, serif; 
+     color: white; 
+     font-size: 18px;
+      
+}
+#banner4{
+    position: relative;
+    right: 257px; 
+    float: right;  
+    top: 120px; 
+     width: 243px;  
+     padding: 8px; 
+     background-color: rgb(54, 163, 163);
+     font-family: Georgia, 'Times New Roman', Times, serif; 
+     color: white; 
+     font-size: 18px;
+}
+
+#banner5{
+    position: relative;
+    right: 0px; 
+    float: right;  
+    bottom: 233px; 
+     width: 243px;  
+     padding: 8px; 
+     background-color: rgb(54, 163, 163);
+     font-family: Georgia, 'Times New Roman', Times, serif; 
+     color: white; 
+     font-size: 18px;
+}
+
+
+h2{
+border: 1px; 
+ color: rgb(20, 97, 97); 
+ margin:3px; 
+}
+
+.caption{
+    color:rgb(14, 13, 13);
+    float: left;  
+    text-align:left;
+    position: relative; 
+    top: -510px; 
+    margin-right: 570px; 
+
+
+     
+}
+
+.text{
+
+    position: relative;
+    top: -615px; 
+    left: 55px;
+
+}
+
+.jumbotron{
+    height: 650px;
+    width: 650px; 
+    margin-left:25px; 
+      
+}
+
+.thumbnail{
+    position: relative; 
+    bottom: 500px; 
+    width: 80%; 
+    margin-left: 55px; 
+    
+}
+
+.panel{
+    position: relative;
+    bottom:985px;  
+    left: 1100px; 
+    padding:15px; 
+    text-align: center; 
+}
+
+.container-fluid{
+
+    background-color: rgb(23, 99, 99); 
+    text-align: center;
+    color: white; 
+    font-family: Georgia, 'Times New Roman', Times, serif; 
+    height: 65px;
+    position: relative; 
+    bottom: -120px; 
+   
+}
